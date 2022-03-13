@@ -1,3 +1,3 @@
 <h1>
-  <img src=""
+  <img src="Template.png">
 <h1>
